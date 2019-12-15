@@ -1,6 +1,4 @@
 print('-'*25)
-print('Exercício 3 complementar')
-print('-'*25)
 soma = 0
 for c in range(1,6):
     n1 = float(input('Digite um número para realizar a soma:\n'))
