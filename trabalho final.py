@@ -1,5 +1,5 @@
-#Trabalho Guilherme Rek Castanha
-#GRR: 20195403
+#Trabalho Guilherme R.C.
+#Trabalho com várias questões
 resposta = []
 def porcentagem (VT):
     if VT > 50000:
