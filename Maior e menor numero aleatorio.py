@@ -1,6 +1,4 @@
 print('-'*20)
-print('Exercício 1 lista 2')
-print('-'*20)
 i = 0
 maior = 0
 menor = 101
