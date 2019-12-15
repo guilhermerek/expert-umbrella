@@ -1,6 +1,4 @@
 print('-'*25)
-print('Exercício 2 complementar')
-print('-'*25)
 n1 = 1
 soma = 0
 while(n1 != 0):
