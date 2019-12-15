@@ -1,6 +1,4 @@
 print('-'*25)
-print('Exercício 4 copmlementar')
-print('-'*25)
 soma = 0
 for c in range(1, 6):
     n = float(input('Digite algum número:\n'))
